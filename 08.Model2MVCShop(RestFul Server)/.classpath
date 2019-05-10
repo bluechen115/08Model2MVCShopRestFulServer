@@ -11,5 +11,7 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/json_simple-1.1"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/org.codehaus.jackson"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
