@@ -50,6 +50,7 @@ public class ProductInfo {
 		productBoard.setQuantity(quantity);
 		productBoard.setTitle(title);
 		productBoard.setViewCount(viewCount);
+		productBoard.setBoardNo(boardNo);
 		
 		return productBoard;
 	}
